@@ -34,20 +34,6 @@ p {
     line-height: 1.6;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    margin: 10px 0;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #E6F1FF;
-}
-
 header {
     border-bottom: 1px solid #E6F1FF;
 }
