@@ -44,3 +44,7 @@ footer {
     margin-top: 20px;
     box-sizing: border-box;
 }
+
+footer p {
+    color: #D3D3D3;
+}
