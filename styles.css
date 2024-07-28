@@ -5,10 +5,6 @@ body {
     color: #E6F1FF;
 }
 
-main {
-    text-align: right;
-}
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -30,7 +26,6 @@ p {
 
 header {
     border-bottom: 1px solid #E6F1FF;
-    text-align: left;
 }
 
 footer {
