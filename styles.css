@@ -14,12 +14,13 @@ body {
 
 .left-section {
     flex: 1;
-    margin-left: -100px;
+    margin-right: 20px;
+    margin-left: -50px;
 }
 
 .right-section {
     flex: 2;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
 header, footer {
