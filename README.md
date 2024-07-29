@@ -4,5 +4,3 @@ This website idea was in collaboration with CTP Cohort 10 and was one of their s
 
 I built the website using HTML and CSS, this is my first time creating one. Please visit the website at: ii2Chris.github.io
 and view all of my projects and social media links!
-
-I took inspiration from this website: https://brittanychiang.com/
