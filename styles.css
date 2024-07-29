@@ -60,7 +60,6 @@ footer p {
 }
 
 .social-icons img {
-    width: 30px; /* Adjust the size of the icons */
-    height: 30px;
-    filter: invert(80%); /* Optional: Adjust color to match your design */
+    width: 50px; /* Adjust the size of the icons */
+    height: 50px;
 }
