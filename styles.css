@@ -51,7 +51,7 @@ footer p {
 
 .social-icons {
     display: flex;
-    gap: 15px; /* Space between icons */
+    gap: 50px; /* Space between icons */
     margin-top: 20px; /* Space above the icons */
 }
 
