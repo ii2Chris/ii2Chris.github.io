@@ -48,3 +48,19 @@ footer {
 footer p {
     color: #a1a1a18e;
 }
+
+.social-icons {
+    display: flex;
+    gap: 15px; /* Space between icons */
+    margin-top: 20px; /* Space above the icons */
+}
+
+.social-icons a {
+    display: inline-block;
+}
+
+.social-icons img {
+    width: 30px; /* Adjust the size of the icons */
+    height: 30px;
+    filter: invert(80%); /* Optional: Adjust color to match your design */
+}
