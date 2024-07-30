@@ -70,8 +70,12 @@ footer p {
 }
 
 a {
-    color: #1E90FF; /* Change link color to a more visible blue */
+    color: #1E90FF;
     text-decoration: none; 
+}
+
+a:visited {
+    color: #1E90FF;
 }
 
 a:hover{
