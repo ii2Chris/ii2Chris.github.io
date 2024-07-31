@@ -30,6 +30,11 @@ header {
     width: 100%;
 }
 
+header p {
+    color: #a1a1a18e;
+    font-size: 8px;
+}
+
 h1, h2, h3 {
     margin: 0;
     padding: 10px 0;
