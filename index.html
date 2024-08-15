@@ -15,6 +15,19 @@
 
 </style>
 <body>
+    <script>
+        document.addEventListener('mousemove', function(event) {
+        const x = event.clientX;
+        const y = event.clientY;
+        const windowWidth = window.innerWidth;
+        const windowHeight = window.innerHeight;
+
+        const percentX = x / windowWidth * 100;
+        const percentY = y / windowHeight * 100;
+
+        document.body.style.background = `radial-gradient(circle at ${percentX}% ${percentY}%, #FFD700, #0A192F)`;
+    });
+    </script>
     <div class="container">
         <div class="left-section">
             <header>
@@ -53,7 +66,7 @@
                 <h2>Projects</h2>
                 <ul>
                     <li> <h4>Login and Registration System</h4>
-                        <p>Developed a secure login and registration system in C++ with features such as user authentication, error handling, and data encryption. The project demonstrates my initroduction in file handling and security protocols, ensuring user data integrity and privacy.</p>
+                        <p>I developed a secure login and registration system in C++ that includes user authentication, error handling, and data encryption. This project introduced me to file handling and security protocols, ensuring the integrity and privacy of user data.</p>
                         <a href="https://github.com/ii2Chris/regisys2" target = "_blank">View Project</a></li>
                     <li> <h4>Financial Management System (Unfinished)</h4>
                         <p>I developed a financial management system in C++ that helps people track their expenses, manage their budgets, and get detailed financial reports automatically. This project really let me dive into object-oriented programming, which was a main focus of my education at the time.</p>
