@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #0A192F;
+    background: linear-gradient(135deg, #0A192F, #243B55);
     color: #E6F1FF;
 }
 
@@ -11,6 +11,23 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+}
+
+.left-section, .right-section {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #112240;
+    padding: 20px;
+    border-radius: 8px;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 1s forward
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .left-section {
@@ -28,6 +45,11 @@ body {
 header {
     margin-bottom: 30px;
     width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: #112240;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 header p {
@@ -48,9 +70,12 @@ footer {
     width: 100%;
     text-align: center;
     border-top: 1px solid #E6F1FF;
-    padding-top: 10px;
-    margin-top: 20px;
+    padding-top: 20px;
+    margin-top: 40px;
     box-sizing: border-box;
+    background-color: #112240;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 footer p {
@@ -76,7 +101,8 @@ footer p {
 
 a {
     color: #1E90FF;
-    text-decoration: none; 
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 a:visited {
