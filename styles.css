@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #0A192F;
-    overflow: hidden;
+    background: linear-gradient(135deg, #0A192F, #243B55);
+    color: #E6F1FF;
 }
 
 .container {
