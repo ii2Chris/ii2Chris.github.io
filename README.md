@@ -4,4 +4,4 @@ This website idea was in collaboration with CTP Cohort 10 and was one of their s
 
 I built the website using HTML and CSS, this is my first time creating a site. I can say that I have learnt alot about HTML, CSS and Javascript.<br><br>
 
-Please visit the website at: <a href="ii2Chris.github.io"> My Site </a> and view all of my projects and social media links!
+Please visit the website at: <a href="ii2Chris.github.io"> My Site</a>  and view all of my projects and social media links!
