@@ -4,4 +4,4 @@ This website idea was in collaboration with CTP Cohort 10 and was one of their s
 
 I built the website using HTML and CSS, this is my first time creating a site. I can say that I have learnt alot about HTML, CSS and Javascript.<br><br>
 
-Please visit the website at: <p><a href="[ii2Chris.github.io/index](https://ii2chris.github.io/index)" target="_blank"> My Site</a> If the link isnt working, the site is: ii2Chris.github.io</p>
+Please visit the website at: <p><a href="https://ii2chris.github.io/index" target="_blank"> My Portfolio!</a> My Site</a> If the link isnt working, the site is: ii2Chris.github.io</p>
